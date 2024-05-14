@@ -46,4 +46,9 @@ public class TopDownMovement : MonoBehaviour
         //정규화가 들어와서 곱해줬기때문에 speed를 곱해줄것이다.
         movementRigidbody.velocity = direction;
     }
+
+    public void hello()
+    {
+
+    }
 }
