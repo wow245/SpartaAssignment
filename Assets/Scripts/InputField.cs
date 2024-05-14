@@ -20,7 +20,7 @@ public class InputField : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Assert(name != null);
+       
     }
 
    
