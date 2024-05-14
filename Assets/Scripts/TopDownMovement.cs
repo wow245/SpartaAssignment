@@ -47,18 +47,5 @@ public class TopDownMovement : MonoBehaviour
         movementRigidbody.velocity = direction;
     }
 
-    public void hello()
-    {
-
-    }
-
-    public void hello1()
-    {
-
-    }
-
-    public void hello2()
-    {
-
-    }
+    
 }
