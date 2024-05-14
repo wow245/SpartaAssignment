@@ -51,4 +51,9 @@ public class TopDownMovement : MonoBehaviour
     {
 
     }
+
+    public void hello1()
+    {
+
+    }
 }
