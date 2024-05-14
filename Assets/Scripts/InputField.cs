@@ -23,8 +23,5 @@ public class InputField : MonoBehaviour
         
     }
 
-    public void hello()
-    {
-
-    }
+   
 }
